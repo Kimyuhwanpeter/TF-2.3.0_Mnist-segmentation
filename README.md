@@ -2,7 +2,8 @@
 
 # Prepare the dataset
 * MNIST dataset is just for only classification. So i made to segmentation dataset using 10 color.
-* [Download the dataset]()
+* [Download the dataset (segmentation dataset)](https://drive.google.com/file/d/1XphUCiGZMZF-Cho5hxoOxyJMueq_50TI/view?usp=sharing)
+* [Download the dataset (original dataset)](https://drive.google.com/file/d/1HxigK8sClUycOWs3Oz8yUJfvoh5JAnRL/view?usp=sharing)
 
 # Detail
 * THis code is not suitable for expert
