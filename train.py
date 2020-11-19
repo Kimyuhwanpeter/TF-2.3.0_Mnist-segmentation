@@ -13,9 +13,9 @@ flags.DEFINE_bool('train', True, "")
 
 flags.DEFINE_string("txt_path", "D:/[1]DB/[4]etc_experiment/Mnist/train.txt", "Training images path")
 
-flags.DEFINE_integer("img_size", 256, "Image size")
+flags.DEFINE_integer("img_size", 64, "Image size")
 
-flags.DEFINE_float("lr", 0.0002, "Training learning rate")
+flags.DEFINE_float("lr", 0.001, "Training learning rate")
 
 flags.DEFINE_integer("batch_size", 1, "Batch size")
 
